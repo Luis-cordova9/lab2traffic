@@ -10,4 +10,4 @@ Se utiliza un enum class para definir los posibles estados del semáforo (Red, Y
 ---
 
 ## Video 
-https://youtu.be/9XYuvVWLjqQ
+https://youtu.be/nYRQBsM5zd4
